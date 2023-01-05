@@ -1,0 +1,15 @@
+C:\repo\new.pap\Examples\002\bin\Debug\net6.0\002.exe
+C:\repo\new.pap\Examples\002\bin\Debug\net6.0\002.deps.json
+C:\repo\new.pap\Examples\002\bin\Debug\net6.0\002.runtimeconfig.json
+C:\repo\new.pap\Examples\002\bin\Debug\net6.0\002.dll
+C:\repo\new.pap\Examples\002\bin\Debug\net6.0\002.pdb
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\002.csproj.AssemblyReference.cache
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\002.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\002.AssemblyInfoInputs.cache
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\002.AssemblyInfo.cs
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\002.csproj.CoreCompileInputs.cache
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\002.dll
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\refint\002.dll
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\002.pdb
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\002.genruntimeconfig.cache
+C:\repo\new.pap\Examples\002\obj\Debug\net6.0\ref\002.dll
